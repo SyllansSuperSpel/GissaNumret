@@ -2,7 +2,7 @@
 Gissa numret
 """
 
-# Nån voodoo grej
+# Nån voodoo grej, some eric skrev
 import random
 numret = random.randint(1, 100)
 
