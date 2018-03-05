@@ -20,6 +20,5 @@ while True:
     else: 
         print("Högre")
 
-    
 
 print("Nu var det slutspelat!")
